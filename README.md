@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/aksolip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aksolip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alicaninci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicaninci" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/23211818/alican%c4%b0nci]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alicani̇nci" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23211818/alican%c4%b0nci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alicani̇nci" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aksolip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aksolip" height="30" width="40" /></a>
 <a href="https://discord.gg/aksolip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aksolip" height="30" width="40" /></a>
 </p>
